@@ -1,4 +1,5 @@
 // example 8 - control flow with a step function
+// OBS: this doesnt run on your computer - needs my 'common' module
 
 var fs = require('fs');
 var step = require('common').step; // original idea Tim Caswell

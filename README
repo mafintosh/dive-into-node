@@ -1,1 +1,9 @@
 The examples from my Community Day presentation on node. Some of the examples are borrowed from the "Introduction on Node.js" talk hosted at http://nodejs.org so credit where credit is due
+
+To compile node.js on your Macintosh or Linix (*nix) machine do the following
+
+   download and unpack http://nodejs.org/dist/node-v0.4.8.tar.gz
+   open a terminal and cd into the folder
+   ./configure
+   make
+   sudo make install

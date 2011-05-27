@@ -1,4 +1,5 @@
 // example 9 - control flow with a step function (using concurrency)
+// OBS: this doesn't run on your computer - needs my 'common' module
 
 var fs = require('fs');
 var step = require('common').step; // original idea Tim Caswell
